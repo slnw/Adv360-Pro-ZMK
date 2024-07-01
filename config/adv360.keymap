@@ -64,7 +64,7 @@
  &trans  &trans  &trans  &trans  &trans  &trans             &none                                                   &none  &trans  &trans  &trans             &trans         &trans   &trans
  &trans  &trans  &trans  &trans  &trans  &trans             &none  &trans  &trans                  &trans  &trans   &none  &trans  &trans  &trans             &trans         &trans   &trans
  &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                  &trans  &trans  &trans             &trans         &trans   &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans     &mo  &kp RIGHT_COMMAND  &kp RIGHT_ALT   &trans
+ &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &kp RIGHT_COMMAND  &kp RIGHT_ALT   &trans
             >;
         };
 
